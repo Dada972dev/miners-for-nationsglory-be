@@ -1,0 +1,23 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "ddqs",
+		"description": "ddqs Resource Pack",
+		"uuid": "40c200df-20b3-a020-5b87-32394f8f4e61",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"generated_with": {
+			"blockbench_block_wizard": ["1.2.2"]
+		}
+	},
+	"modules": [
+		{
+			"description": "ddqs",
+			"type": "resources",
+			"uuid": "a6629877-2592-04bd-465a-eda5fa199fd6",
+			"version": [1, 0, 0]
+		}
+	]
+}
