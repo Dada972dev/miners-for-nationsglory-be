@@ -1,8 +1,8 @@
 {
 	"format_version": 2,
 	"header": {
-		"name": "ddqs",
-		"description": "ddqs Resource Pack",
+		"name": "Mineral ng pack be",
+		"description": "Mineral ng pack be",
 		"uuid": "40c200df-20b3-a020-5b87-32394f8f4e61",
 		"version": [1, 0, 0],
 		"min_engine_version": [1, 16, 0]
@@ -14,7 +14,7 @@
 	},
 	"modules": [
 		{
-			"description": "ddqs",
+			"description": "Mineral ng pack be",
 			"type": "resources",
 			"uuid": "a6629877-2592-04bd-465a-eda5fa199fd6",
 			"version": [1, 0, 0]
